@@ -11,7 +11,7 @@ FinanceManager is an online budgeting tool that allows you to keep track of your
 - Asset management
 - Account tracking for cash, shares, ETF, real estate, and more
 - Real-time data updates
-- Responsive design
+- Responsive design 
 
 ## Demo
 Check out the [DEMO](https://avresial.github.io/FinanceManager/landingpage)!
